@@ -1,1 +1,4 @@
 image/wallet
+image/*asc
+!image/electrum-key.asc
+image/*gz
